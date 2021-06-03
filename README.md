@@ -1,6 +1,3 @@
 # WolfSk
-<center><b>Wolf</b>Sk <i><small>SUPPORT: 1.10-1.15.2</small></i></center><br>
-Working on:<br>
-<i>- Fixing Holograms</i><br>
-<i>- Small fixes</i><br>
-<i>- New functions</i>
+<center><b>Wolf</b>Sk <i><small>SUPPORT: 1.11 - 1.16.5</small></i></center><br>
+Break :/
